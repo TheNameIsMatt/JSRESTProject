@@ -1,0 +1,27 @@
+{
+  "name": "jsrestproject",
+  "version": "1.0.0",
+  "description": "Project for HS/Nic",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/imPukes/JSRESTProject.git"
+  },
+  "author": "Matt Rigby",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/imPukes/JSRESTProject/issues"
+  },
+  "homepage": "https://github.com/imPukes/JSRESTProject#readme",
+  "dependencies": {
+    "body-parser": "^1.20.0",
+    "cors": "^2.8.5",
+    "dotenv": "^16.0.1",
+    "express": "^4.18.1",
+    "mongoose": "^6.3.4",
+    "nodemon": "^2.0.16"
+  }
+}

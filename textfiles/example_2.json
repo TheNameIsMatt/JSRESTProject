@@ -1,0 +1,19 @@
+[{
+  "id": 1,
+  "first_name": "Gustavo",
+  "last_name": "Ferrelli",
+  "email": "gferrelli0@umn.edu",
+  "gender": "Male"
+}, {
+  "id": 2,
+  "first_name": "Bobette",
+  "last_name": "Beneix",
+  "email": "bbeneix1@e-recht24.de",
+  "gender": "Female"
+}, {
+  "id": 3,
+  "first_name": "Janos",
+  "last_name": "Polk",
+  "email": "jpolk2@gmpg.org",
+  "gender": "Male"
+}]
